@@ -4,6 +4,8 @@
 #the weather forecast
 
 #you can make requests to the url using this module
+
+#REMOVED API KEY SO I CAN UPLAOD TO THE CLOUD REPO
 import requests
 
 # you can interpret date/time using this module
@@ -24,7 +26,7 @@ if not number_of_days_str.isdigit():
 else:
     number_of_days = int(number_of_days_str)
 #API key and endpoint
-API_key = 'd9c69cf0157a7552cca56dabf8ec401b'
+API_key = ''
 url = f'https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_key}&units=metric'
 
 #making a request to the API
