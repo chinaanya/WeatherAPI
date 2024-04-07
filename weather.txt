@@ -1,0 +1,19 @@
+C:\Users\China Anya\cfg-python\Python assignment\venv\Scripts\python.exe" "C:\Users\China Anya\cfg-python\Python assignment\weather.py
+Which city in the world will you chose? Let's find out!
+
+Enter city name: havana
+Number of days to forecast: 5
+Today in Havana you can expect few clouds
+A high of 28 and a low of 28
+It will be a warm day
+=======================================================================
+Ramadan has started, let's find out what time the sun will rise and set today
+The sun will rise at 11:36
+The sun will set at 23:39
+=====================================================================
+===========Let's look at the weather forecast for Havana ============
+Temperature for day 1 in Havana will be 29 degrees
+Temperature for day 2 in Havana will be 29 degrees
+Temperature for day 3 in Havana will be 26 degrees
+Temperature for day 4 in Havana will be 25 degrees
+Temperature for day 5 in Havana will be 24 degrees
