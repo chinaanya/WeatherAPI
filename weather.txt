@@ -1,4 +1,5 @@
 C:\Users\China Anya\cfg-python\Python assignment\venv\Scripts\python.exe" "C:\Users\China Anya\cfg-python\Python assignment\weather.py
+Hello hello!
 Which city in the world will you chose? Let's find out!
 
 Enter city name: havana
